@@ -374,11 +374,9 @@ scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer)
 ---
 
 ## 🧑‍💻 Author & Contact
-- Made with ❤️ by [Your Name]
+- Made with ❤️ by Shubham Gupta
 - 🔬 Research focus: Computational Chemistry & AI
-- 📧 Email: your.email@university.edu
-- 🐦 Twitter: @your_handle
-- 🔗 LinkedIn: linkedin.com/in/your_profile
+- 📧 Email: shubhamytedt@gmail.com
 
 ### 🤝 Contributing
 We welcome contributions! Please:
