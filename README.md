@@ -25,7 +25,7 @@
 ---
 
 ## 🧬 What is This Project?
-A **sexy, modern, and complete AI pipeline** for predicting the **HOMO-LUMO gap** (a quantum property) from the QM9 molecular dataset. Includes:
+A **modern and complete AI pipeline** for predicting the **HOMO-LUMO gap** (a quantum property) from the QM9 molecular dataset. Includes:
 - 🧹 Data cleaning & feature engineering
 - 🤖 Baseline ML models & advanced Graph Neural Network (GNN)
 - 📊 Beautiful plots, feature importance, and full documentation
