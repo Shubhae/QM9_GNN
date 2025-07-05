@@ -1,0 +1,24 @@
+# QM9 AI Model Pipeline Requirements
+# Core data science libraries
+pandas>=1.3.0
+numpy>=1.21.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Machine learning libraries
+scikit-learn>=1.0.0
+joblib>=1.1.0
+
+# Molecular modeling and cheminformatics
+rdkit-pypi>=2022.9.1
+
+# Optional: Quantum machine learning (for Coulomb matrix)
+# qml>=0.6.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Additional useful libraries
+tqdm>=4.62.0  # Progress bars
+plotly>=5.0.0  # Interactive plots 
